@@ -1,0 +1,26 @@
+.Header{
+    background-color: rgb(209, 47, 18);
+    color: rgb(223, 98, 25);
+}
+.mainDiv{
+    background-color: rgba(218, 197, 15, 0.842);
+    color: rgb(84, 240, 12);
+}
+.mainDiv button{
+    margin-top: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+ h4{
+    font-family: 'Road Rage', cursive;
+}
+ h3{
+    font-family: 'Road Rage', cursive;
+ }
+  h2{
+    font-family: 'Road Rage', cursive;
+  }
+  p{
+    font-family: 'Road Rage', cursive;
+  }
